@@ -12,7 +12,7 @@ item2.X-ABLabel:📧Email
 item3.ADR:;;🎍KANDANGAN;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:asal kota
-item4.URL:https//github.com/Botynyakamu
+item4.URL:"_"
 item4.X-ABLabel:Website
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
@@ -24,7 +24,7 @@ const sentMsg  = await conn.sendMessage(
         }
     }
 )
-let Dani = 'https://telegra.ph/file/6de3ca8fe283f2e236ec4.jpg'
+let rozi = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg'
 await conn.send3ButtonImg(m.chat, rozi, "*Hai kak👋,  Itu nomor owner gw…*", '📮: jngn di spam kack', 'Source code', '.sc', 'Back', '.menu', 'Donasi', '.donasi', sentMsg)}
 handler.help = ['owner2', 'creator2']
 handler.tags = ['info']
