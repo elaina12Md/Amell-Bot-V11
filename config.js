@@ -26,7 +26,7 @@ global.gopay = '081352848936' //ganti pakai nomor Gopay mu
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Danibotz-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
 global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd' //ganti pakai grup mu
-global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = '"_"' //ganti pakai Instagram mu
 global.saweria = '"_"' //bebas ganti aja pakai apa
 global.nomer = 'https://wa.me/6281251549899' //ganti jadi nomor mu
