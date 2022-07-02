@@ -2,7 +2,7 @@ const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessa
 let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
-*Hallo user Bot👋,* 
+*Hallo user DaniBotz-Ofc👋,* 
 
 *Saya adalah Bot WhatsApp Multi Device yang di buat oleh Creator kami.*
 Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendownload sesuatu seperti:
