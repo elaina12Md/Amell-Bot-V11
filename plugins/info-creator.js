@@ -12,7 +12,7 @@ item2.X-ABLabel:📧Email
 item3.ADR:;;🎍KANDANGAN;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:asal kota
-item4.URL:"_"
+item4.URL:https://github.com/Bot-Mdnew
 item4.X-ABLabel:Website
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
