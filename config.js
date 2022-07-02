@@ -33,8 +33,8 @@ global.nomer = 'https://wa.me/6281251549899' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ini juga ganti pakai foto bot mu
+global.fotonya1 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti pakai foto bot mu
 global.fotonya3 = 'https://telegra.ph/file/4c7b1f58bb1832ecd9c1d.jpg' //ini juga ganti
 global.fotonya4 = 'https://telegra.ph/file/b90ac0b67473356ef980d.jpg' //ini juga ganti
 global.fotonya5 = 'https://telegra.ph/file/88a4f6a6247d90433508a.jpg' //ini juga ganti
